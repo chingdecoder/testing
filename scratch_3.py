@@ -1,11 +1,2 @@
-
-
-
-
-
-
-hi
-
-
-
-sddddddddddddddddddđ
+print("hello everyone")
+sssssssssssssssssssssssd
