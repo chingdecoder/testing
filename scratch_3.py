@@ -17,4 +17,5 @@ thí should give one cònlict
 
 
 
-conflict 
+conflict
+GIVE ME CONFLICT MOTHERFUCKER
