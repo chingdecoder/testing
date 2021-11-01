@@ -1,7 +1,4 @@
 hi
 
-hello
-
-ha
 
 
