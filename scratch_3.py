@@ -4,13 +4,13 @@ flexin in circle L
 
 
 
+a
+e
+b
 
+c
 
-
-
-
-
-
+d
 
 
 thí should give one cònlict
