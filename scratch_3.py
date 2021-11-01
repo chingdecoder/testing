@@ -15,7 +15,6 @@ d
 
 thí should give one cònlict
 
-
-
 conflict
-
+conflict 
+ádjrioewucjklsdf
