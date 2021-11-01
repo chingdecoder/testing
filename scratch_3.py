@@ -18,4 +18,4 @@ thí should give one cònlict
 
 
 conflict
-GIVE ME CONFLICT MOTHERFUCKER
+
